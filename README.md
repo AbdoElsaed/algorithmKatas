@@ -1,3 +1,3 @@
 # algorithmKatas
 
-# random algorithms solutions in js
+random algorithms solutions in js
